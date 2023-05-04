@@ -4,5 +4,6 @@
 	<h1>HEY THIS IS MY SECOND VERSION OF APPLICATION</h1>
 	<h2> this is the zomato application used to deliver foof</h2>
 	<h2> tfi is the famous industry in south india</h2>
+	<h2> nexus part also practised well</h2>
 </body>
 </html>
